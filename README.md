@@ -39,6 +39,3 @@ This Project is a fully virtualized SOC environment designed to simulate real-wo
 | Malicious PowerShell | T1059 | Docs/Threat-Hunting/PowerShell-Report.md |
 
 ---
-
-## Repo Structure
-
